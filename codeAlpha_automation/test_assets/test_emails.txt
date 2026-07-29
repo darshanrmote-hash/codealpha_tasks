@@ -1,0 +1,6 @@
+Hello! This is a test file for email extraction.
+You can contact support at support@example.com or info@domain.org.
+If you have sales queries, write to sales@example.com.
+Here is a duplicate email: support@example.com.
+And a malformed one: invalid-email@.com or abc@xyz or @example.com.
+Also, check uppercase emails: ADMIN@Example.com which should match and be converted to lowercase or sorted nicely.
